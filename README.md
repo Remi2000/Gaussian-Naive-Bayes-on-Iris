@@ -1,6 +1,6 @@
 # Gaussian Naive Bayes Classifier — Project Overview
 
-## 📌 Project Overview
+## Project Overview
 This project implements a **Gaussian Naive Bayes (GNB)** classifier from scratch using Python.  
 The goals of this project are to:
 
@@ -22,7 +22,7 @@ This work demonstrates understanding of generative machine learning models, nume
 
 ---
 
-## 🖥️ Python & Package Versions
+## Python & Package Versions
 
 This project was developed and tested using:
 
@@ -38,14 +38,14 @@ This project was developed and tested using:
 
 ---
 
-## 📦 Installation (Using Conda)
+## Installation (Using Conda)
 
 To create the environment:
 
 ```bash
 conda data2060
 
-## 📬 Contact Information
+## Contact Information
 
 For questions, collaboration, or reproduction issues, please contact:
 
